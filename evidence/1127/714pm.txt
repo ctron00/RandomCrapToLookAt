@@ -1,0 +1,15 @@
+ip removed from established connections....
+
+
+  TCP    192.168.25.46:57482    13.33.68.32:443        ESTABLISHED     6812 - is established 7PM
+  TCP    192.168.25.46:64413    204.79.197.200:443     ESTABLISHED     6460 - is established  7PM
+
+
+
+connected at 714PM - NO CONNECTION TO PORT 57482
+  TCP    192.168.25.46:139      0.0.0.0:0              LISTENING       4
+  TCP    192.168.25.46:49674    13.64.180.106:443      ESTABLISHED     3764
+  TCP    192.168.25.46:51939    35.190.245.180:4070    ESTABLISHED     660
+  TCP    192.168.25.46:58399    35.186.224.47:443      ESTABLISHED     660
+  TCP    192.168.25.46:65436    13.33.68.32:443        ESTABLISHED     6812
+  TCP    192.168.25.46:65437    13.33.68.32:443        ESTABLISHED     6812

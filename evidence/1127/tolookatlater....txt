@@ -1,0 +1,13 @@
+(window.NREUM || (NREUM = {})).loader_config = {
+  agentID: "24506750",
+  accountID: "1418997",
+  trustKey: "1418997",
+  xpid: "VQIGWV9aDxACUFNVDgMEUw==",
+  licenseKey: "6f524845d1",
+  applicationID: "24279235"
+};
+
+
+
+
+
