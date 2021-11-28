@@ -45,4 +45,78 @@ camfrog_cef.exe		Public	Yes	Allow	No	C:\users\clful\appdata\local\programs\camfr
 <<< insert the proof found in house about magnetic things including monitors....especially interesting to see china connection >>>>
   
   
+# will explain later
+  C:\Users\chris>
+C:\Users\chris>
+C:\Users\chris>
+C:\Users\chris>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : wkjeipojgwqer
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-40-8D-65-90
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 8:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 5E-BA-EF-E3-AF-A1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : DE-BA-EF-E3-AF-A1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Realtek RTL8822CE 802.11ac PCIe Adapter
+   Physical Address. . . . . . . . . : 5C-BA-EF-E3-AF-A1
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2600:8800:718c:d000::aeb9(Preferred)
+   Lease Obtained. . . . . . . . . . : Saturday, November 27, 2021 3:14:15 PM
+   Lease Expires . . . . . . . . . . : Saturday, December 4, 2021 1:53:11 AM
+   IPv6 Address. . . . . . . . . . . : 2600:8800:718c:d000:ccae:b172:cfca:1158(Preferred)
+   Temporary IPv6 Address. . . . . . : 2600:8800:718c:d000:6e:469c:ad57:9feb(Preferred)
+   Link-local IPv6 Address . . . . . : fe80::ccae:b172:cfca:1158%13(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.25.46(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.128
+   Lease Obtained. . . . . . . . . . : Saturday, November 27, 2021 3:14:13 PM
+   Lease Expires . . . . . . . . . . : Monday, November 29, 2021 3:14:14 PM
+   Default Gateway . . . . . . . . . : fe80::226:86ff:fe5e:d28c%13
+                                       192.168.25.1
+   DHCP Server . . . . . . . . . . . : 192.168.25.1
+   DHCPv6 IAID . . . . . . . . . . . : 274512623
+C:\Users\chris>t DUID. . . . . . . . : 00-01-00-01-29-29-F2-37-5C-BA-EF-E3-AF-A1
+   DNS Servers . . . . . . . . . . . : 2001:578:3f::30
+C:\Users\chris>                        2001:578:3f:1::30
+                                       2001:578:3f::30
+                                       2001:578:3f:1::30
+                                       68.105.28.11
+                                       68.105.29.11
+                                       68.105.28.12
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+  
+  
+  
   
