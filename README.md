@@ -42,8 +42,13 @@ camfrog_cef.exe		Public	Yes	Allow	No	C:\users\clful\appdata\local\programs\camfr
  - uses phone and earpiece to tell girls to do shit
   
  
-<<< insert the proof found in house about magnetic things including monitors....especially interesting to see china connection >>>>
-  
+<<< insert the proof found in house about magnetic things including monitors....especially interesting to see china connection >>>
+
+# Video proof
+  - https://drive.google.com/file/d/18_5kl-io7zragruITSGytKLnuIz02nvg/view?usp=sharing
+  - https://drive.google.com/file/d/18AqWpoH5w2nzG8XANy-hgBDDlKbDQTC6/view?usp=sharing
+  - https://drive.google.com/file/d/18DdtN8JHdmbwcCYBysTkAq3hUNqPjdjx/view?usp=sharing
+  - 
   
 # will explain later
   C:\Users\chris>
