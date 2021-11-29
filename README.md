@@ -121,7 +121,71 @@ C:\Users\chris>                        2001:578:3f:1::30
                                        68.105.29.11
                                        68.105.28.12
    NetBIOS over Tcpip. . . . . . . . : Enabled
-  
-  
-  
+
+# other shit
+intentionally removing other person name cause not their problem.  
+***** baby
+newchapterisnow lol not really that but
+newchapterisnow this is not to prove anything to anyone
+newchapterisnow this is to show that i'm sick of the fucking shit
+newchapterisnow that's all
+newchapterisnow had enough
+**** that??
+newchapterisnow lol
+newchapterisnow i would love to hear that it is simply
+newchapterisnow microphone
+****** aaa
+***** ahahaha
+newchapterisnow idk how to say this
+newchapterisnow but just had too much of all
+****** wow
+newchapterisnow not you just yeah
+****** demasiado que baby
+newchapterisnow anyways just wanted to say bye and that i've appreciated u
+****** Andbe Goodbye Baby?
+******* something happens?
+newchapterisnow a ton of shit
+**** are you OK?
+newchapterisnow all of the shit you already know about only more
+******* ohhh
+******* and you went to the doctor
+newchapterisnow it's not that and don't ever ask me that again
+****** wow baby
+****** ok baby
+newchapterisnow you have no idea and i've been to the "hospital" before and if you wanna know about my night
+newchapterisnow of terror
+newchapterisnow when the *&)(#$*)(#!*()#*)(!#*% shit people did shit to me
+newchapterisnow i can tell you every single thing that happened
+newchapterisnow including details
+newchapterisnow locaations
+newchapterisnow etc
+newchapterisnow and i can tell you the other mother fucking shit that they are doing
+newchapterisnow and i will type it i'm not gonna fuckiing talk thru the mother fucking other method
+newchapterisnow cause i'm a real fucking perrson unlike every single other fucking person
+newchapterisnow and i had enough
+newchapterisnow i don't give one fucking shit what they wanna do to me
+newchapterisnow cause i would rather they do it
+newchapterisnow so you wanna know about the night of terror where they had me go around the entire fucking city of Tucson, Arizona
+newchapterisnow which is where i fucking live
+newchapterisnow if you wanna know more
+newchapterisnow ****** removed address but if you PM me I'll give it to you **********
+newchapterisnow so fucking do waht fucking ever i don't fucking give a fuck shit
+newchapterisnow anyways the entire fucking night they made me do a bunch of fucking shit
+newchapterisnow that was fucking stupid
+newchapterisnow but no i didn't do anything that bad
+newchapterisnow but they made me look like a fucking fool
+newchapterisnow then they had this whole "go to the" quote "hospital
+newchapterisnow and did a fucking long time of what to do
+newchapterisnow had a fucking iv in my arm
+newchapterisnow which after taken out
+newchapterisnow gave me a bunch of bumps on my arm
+newchapterisnow don't know what fucking shit they put in my arm
+newchapterisnow but something
+newchapterisnow and they can fucking deal with that shit cause i remember every fucking thing
+newchapterisnow they also had me go to the fucking sandpiper apartments
+newchapterisnow wanna fucking know how much ifucking remember
+newchapterisnow every
+newchapterisnow mother
+newchapterisnow fucking
+newchapterisnow detail
   
